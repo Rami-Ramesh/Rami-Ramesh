@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kurubara Ramesha</h1>
 <h3 align="center">A passionate BackEnd developer from India</h3>
 
-- 📫 How to reach me **rameshgsco7@gmail.com**
+- 📫 How to reach me **rameshgsc07@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
